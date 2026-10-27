@@ -1,0 +1,22 @@
+
+# Compiled executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build output
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
